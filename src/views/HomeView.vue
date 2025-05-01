@@ -1,9 +1,9 @@
-<script setup lang="ts">
-import TheWelcome from '../components/TheWelcome.vue'
+<script setup>
+import ChatGpt from './components/ChatGpt.vue';
 </script>
 
 <template>
   <main>
-    <TheWelcome />
+    <ChatGpt />
   </main>
 </template>
